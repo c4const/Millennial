@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Resources"
 author: "Paul Le"
-categories: resources
+categories: references
 tags: [documentation,sample]
 image: arctic-4.jpg
 ---
